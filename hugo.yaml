@@ -59,7 +59,7 @@ params:
     favicon: /images/author/me.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/cool-pants/NoirAbhinav.github.io
+  gitRepo: https://github.com/NoirAbhinav/NoirAbhinav.github.io
   # Default branch of your Git repo
   gitBranch: main
 
