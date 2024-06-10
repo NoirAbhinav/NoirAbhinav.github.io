@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Tech. in Electronics and Computer Engineering
+  icon: fa-graduation-cap
+  timeframe: 2019-2023
+  institution:
+    name: Vellore Institute of Technology, Chennai
+    url: "https://chennai.vit.ac.in/"
+    logo: /images/sections/education/vit-logo.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/university.jpg
+  grade: #(optional)
+    scale: CGPA
+    achieved: 8.63
+    outOf: 10
+- name: Higher Secondary School Certificate(CBSE)
+  icon: fa-university
+  timeframe: 2017-2019
+  institution:
+    name: Bal Bharati Public School
+    url: "https://bbpsnoida.balbharati.org/"
+    logo: /images/sections/education/bbps.png
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/science_college.png
+  grade: #(optional)
+    scale: Percentage
+    achieved: 95.4
+    outOf: 100
+- name: Secondary School Certificate(CBSE)
+  icon: fa-school
+  timeframe: 2005-2017
+  institution:
+    name: Bal Bharati Public School
+    url: "https://bbpsnoida.balbharati.org/"
+    logo: /images/sections/education/bbps.png
+  grade: #(optional)
+    scale: CGPA
+    achieved: 9.2
+    outOf: 10
