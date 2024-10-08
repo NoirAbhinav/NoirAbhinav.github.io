@@ -145,7 +145,7 @@ params:
         #   id: <your counterdev id>
         # # GoatCounter
         goatCounter:
-          code: cool-pants
+          code: NoirAbhinav
         # # Matomo / Piwik
         # matomo:
         #   instance: matomo.example.com
